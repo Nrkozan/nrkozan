@@ -44,7 +44,7 @@ Feel free to connect with me on LinkedIn to learn more and explore my projects.
 ## Github Stats
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nrkozan&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nrkozan&theme=neon-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
 </td><td valign="top" width="50%">
 
