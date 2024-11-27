@@ -18,7 +18,6 @@ Feel free to connect with me on LinkedIn to learn more and explore my projects.
 
 <br/>
 
-
 ## Languages and Tools
 <div align="center">
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" /></a>
