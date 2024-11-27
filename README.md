@@ -9,7 +9,6 @@
 </a>
 
 
-
 ### Glad to see you here!
 I am driven by my passion for software development. I studied in Çanakkale and during this time, I focused intensively on computer science and software development. Among the names that caught my attention are CodeIgniter, PHP, Laravel, JavaScript, Git, Vue.js. Using these technologies, I have developed a wide range of projects and continue to constantly renew and improve myself with these experiences.
 
