@@ -35,21 +35,3 @@ Feel free to connect with me on LinkedIn to learn more and explore my projects.
 <a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="25" /></a>
 </div>
 
-<br/>
-
-
-## Github Stats
-<table><tr><td valign="top" width="50%">
-
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nrkozan&theme=neon-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nrkozan&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>
-
-<br/>
-
-
-![Profile views counter](https://komarev.com/ghpvc/?username=nrkozan&&style=flat-square)
